@@ -16,4 +16,3 @@
 
 **Note**: Share the outputs via a screenshot.
 
----
