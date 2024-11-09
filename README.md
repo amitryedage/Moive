@@ -12,7 +12,5 @@
    python mm.py
    ```
 
----
-
 **Note**: Share the outputs via a screenshot.
 
