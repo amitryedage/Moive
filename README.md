@@ -1,15 +1,19 @@
-### Steps to run the project files
 
-1. clone this repo use chat gpt for help.
-2. go to this cloned folder.
-3. Run this cmd
-   ``` shell
+### Steps to Run the Project Files
+
+1. **Clone this repository**. Use ChatGPT for help if needed.
+2. **Navigate to the cloned folder**.
+3. **Activate the virtual environment** by running:
+   ```shell
    .\env\Scripts\activate
    ```
-6. then run this cmd
-   ``` shell
+4. **Run the project** by executing:
+   ```shell
    python mm.py
    ```
 
 ---
-share the outputs via screen-short
+
+**Note**: Share the outputs via a screenshot.
+
+---
